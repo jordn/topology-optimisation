@@ -1,0 +1,125 @@
+TPD file name: cantilvr_3d_etaopt_gsf.tpd (v2007)
+===============================================================================
+
+```
+Domain discretisation (NUM_ELEM_X x NUM_ELEM_Y x NUM_ELEM_Z) = 28 x 37 x 111
+Element type (ELEM_K) = H8
+Filter radius (FILT_RAD) = 1.5
+Number of iterations (NUM_ITER) = 50
+Problem type (PROB_TYPE) = comp
+Problem name (PROB_NAME) = cantilvr_3d_etaopt_gsf
+GSF active
+Damping factor (ETA) = 0.40
+No passive elements (PASV_ELEM) specified
+No active elements (ACTV_ELEM) specified
+```
+
+-------------------------------------------------------------------------------
+ Iter | Obj. func.   | Vol.  | Change     | P_FAC | Q_FAC | Ave ETA | S-V frac. 
+ ----:|-------------:|------:|-----------:|------:|------:|--------:|---------:
+ToPy: Solution for FEA converged after 451 iterations.
+   1  | 5.231335e+01 | 0.150 | 2.0000e-01 | 1.000 | 1.000 |  0.400  |  0.000 
+ToPy: Solution for FEA converged after 458 iterations.
+   2  | 2.954960e+01 | 0.150 | 2.0000e-01 | 1.000 | 1.000 |  0.400  |  0.001 
+ToPy: Solution for FEA converged after 475 iterations.
+   3  | 2.386182e+01 | 0.150 | 2.0000e-01 | 1.000 | 1.000 |  0.400  |  0.002 
+ToPy: Solution for FEA converged after 490 iterations.
+   4  | 2.117744e+01 | 0.150 | 2.0000e-01 | 1.000 | 1.000 |  0.400  |  0.004 
+ToPy: Solution for FEA converged after 503 iterations.
+   5  | 1.961864e+01 | 0.150 | 1.4776e-01 | 1.000 | 1.000 |  0.400  |  0.011 
+ToPy: Solution for FEA converged after 506 iterations.
+   6  | 1.909467e+01 | 0.150 | 9.6022e-02 | 1.000 | 1.000 |  0.400  |  0.016 
+ToPy: Solution for FEA converged after 505 iterations.
+   7  | 1.890701e+01 | 0.150 | 7.4006e-02 | 1.000 | 1.000 |  0.400  |  0.020 
+ToPy: Solution for FEA converged after 510 iterations.
+   8  | 1.879463e+01 | 0.150 | 5.3975e-02 | 1.000 | 1.000 |  0.400  |  0.023 
+ToPy: Solution for FEA converged after 510 iterations.
+   9  | 1.871932e+01 | 0.150 | 4.5679e-02 | 1.000 | 1.000 |  0.400  |  0.027 
+ToPy: Solution for FEA converged after 508 iterations.
+  10  | 1.866469e+01 | 0.150 | 4.0941e-02 | 1.000 | 1.000 |  0.400  |  0.030 
+ToPy: Solution for FEA converged after 513 iterations.
+  11  | 1.862323e+01 | 0.150 | 3.6617e-02 | 1.000 | 1.000 |  0.400  |  0.033 
+ToPy: Solution for FEA converged after 513 iterations.
+  12  | 1.859113e+01 | 0.150 | 3.2081e-02 | 1.000 | 1.000 |  0.400  |  0.036 
+ToPy: Solution for FEA converged after 512 iterations.
+  13  | 1.856600e+01 | 0.150 | 2.7932e-02 | 1.000 | 1.000 |  0.400  |  0.039 
+ToPy: Solution for FEA converged after 511 iterations.
+  14  | 1.854608e+01 | 0.150 | 2.5063e-02 | 1.000 | 1.000 |  0.400  |  0.041 
+ToPy: Solution for FEA converged after 508 iterations.
+  15  | 1.853004e+01 | 0.150 | 2.2623e-02 | 1.000 | 1.000 |  0.400  |  0.043 
+ToPy: Solution for FEA converged after 507 iterations.
+  16  | 1.851694e+01 | 0.150 | 8.9761e-02 | 1.200 | 1.050 |  0.400  |  0.051 
+ToPy: Solution for FEA converged after 603 iterations.
+  17  | 2.274074e+01 | 0.150 | 1.9643e-01 | 1.400 | 1.100 |  0.400  |  0.063 
+ToPy: Solution for FEA converged after 679 iterations.
+  18  | 2.831902e+01 | 0.150 | 2.0000e-01 | 1.600 | 1.150 |  0.400  |  0.082 
+ToPy: Solution for FEA converged after 769 iterations.
+  19  | 3.525975e+01 | 0.150 | 2.0000e-01 | 1.800 | 1.200 |  0.400  |  0.108 
+ToPy: Solution for FEA converged after 864 iterations.
+  20  | 4.343046e+01 | 0.150 | 2.0000e-01 | 2.000 | 1.250 |  0.400  |  0.152 
+ToPy: Solution for FEA converged after 969 iterations.
+  21  | 5.249361e+01 | 0.150 | 2.0000e-01 | 2.200 | 1.300 |  0.400  |  0.208 
+ToPy: Solution for FEA converged after 1096 iterations.
+  22  | 6.132587e+01 | 0.150 | 2.0000e-01 | 2.400 | 1.350 |  0.400  |  0.260 
+ToPy: Solution for FEA converged after 1229 iterations.
+  23  | 6.751690e+01 | 0.150 | 2.0000e-01 | 2.600 | 1.400 |  0.400  |  0.320 
+ToPy: Solution for FEA converged after 1352 iterations.
+  24  | 6.737880e+01 | 0.150 | 2.0000e-01 | 2.800 | 1.450 |  0.400  |  0.383 
+ToPy: Solution for FEA converged after 1370 iterations.
+  25  | 5.663992e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.500 |  0.400  |  0.489 
+ToPy: Solution for FEA converged after 1480 iterations.
+  26  | 4.001877e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.550 |  0.400  |  0.640 
+ToPy: Solution for FEA converged after 1421 iterations.
+  27  | 2.983366e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.600 |  0.400  |  0.774 
+ToPy: Solution for FEA converged after 1372 iterations.
+  28  | 2.588648e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.650 |  0.400  |  0.855 
+ToPy: Solution for FEA converged after 1357 iterations.
+  29  | 2.407468e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.700 |  0.400  |  0.903 
+ToPy: Solution for FEA converged after 1325 iterations.
+  30  | 2.321916e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.750 |  0.400  |  0.922 
+ToPy: Solution for FEA converged after 1270 iterations.
+  31  | 2.271999e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.800 |  0.400  |  0.934 
+ToPy: Solution for FEA converged after 1287 iterations.
+  32  | 2.237540e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.850 |  0.400  |  0.944 
+ToPy: Solution for FEA converged after 1262 iterations.
+  33  | 2.213135e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.900 |  0.400  |  0.954 
+ToPy: Solution for FEA converged after 1244 iterations.
+  34  | 2.195796e+01 | 0.150 | 2.0000e-01 | 3.000 | 1.950 |  0.400  |  0.964 
+ToPy: Solution for FEA converged after 1214 iterations.
+  35  | 2.182026e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.000 |  0.400  |  0.972 
+ToPy: Solution for FEA converged after 1243 iterations.
+  36  | 2.170522e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.050 |  0.400  |  0.979 
+ToPy: Solution for FEA converged after 1232 iterations.
+  37  | 2.161240e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.100 |  0.400  |  0.984 
+ToPy: Solution for FEA converged after 1241 iterations.
+  38  | 2.153993e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.150 |  0.400  |  0.988 
+ToPy: Solution for FEA converged after 1232 iterations.
+  39  | 2.148552e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.200 |  0.400  |  0.991 
+ToPy: Solution for FEA converged after 1239 iterations.
+  40  | 2.143928e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.250 |  0.400  |  0.994 
+ToPy: Solution for FEA converged after 1246 iterations.
+  41  | 2.139636e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.300 |  0.400  |  0.996 
+ToPy: Solution for FEA converged after 1256 iterations.
+  42  | 2.135567e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.350 |  0.400  |  0.997 
+ToPy: Solution for FEA converged after 1246 iterations.
+  43  | 2.132123e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.400 |  0.400  |  0.998 
+ToPy: Solution for FEA converged after 1218 iterations.
+  44  | 2.129952e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.450 |  0.400  |  0.999 
+ToPy: Solution for FEA converged after 1197 iterations.
+  45  | 2.128819e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.500 |  0.400  |  0.999 
+ToPy: Solution for FEA converged after 1190 iterations.
+  46  | 2.127928e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.550 |  0.400  |  0.999 
+ToPy: Solution for FEA converged after 1174 iterations.
+  47  | 2.127246e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.600 |  0.400  |  1.000 
+ToPy: Solution for FEA converged after 1175 iterations.
+  48  | 2.126600e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.650 |  0.400  |  1.000 
+ToPy: Solution for FEA converged after 1133 iterations.
+  49  | 2.126280e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.700 |  0.400  |  1.000 
+ToPy: Solution for FEA converged after 925 iterations.
+  50  | 2.126090e+01 | 0.150 | 2.0000e-01 | 3.000 | 2.750 |  0.400  |  1.000 
+
+- Solid plus void to total elements fraction = `0.99990`
+
+- ` 50 ` iterations took `56.407 minutes` (1.128 min/iter or 67.688 sec/iter)
+
+- Average of all ETA's = `0.400` (average of all a's = 1.500)
